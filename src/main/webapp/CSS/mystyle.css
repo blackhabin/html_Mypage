@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-color: #F7CAC9;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: x-large;
+    color: #444444;
+    text-align: center;
+    
+}
+
+h1 {
+    color: #632A3C;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
